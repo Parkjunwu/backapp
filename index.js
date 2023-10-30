@@ -8,7 +8,7 @@ const {app, BrowserWindow, ipcMain} = require('electron')
 // const http = require('http');
 // const socket = require('socket.io');
 // const log = require('electron-log');
-require('./server.js');
+// require('./server.js');
 
 // const socket = require('socket.io-client')('http://218.146.20.177');
 // let interval;
